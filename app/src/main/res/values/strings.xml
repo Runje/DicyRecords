@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DicyRecords</string>
+    <string name="action_settings">Settings</string>
+    <string name="record_value">Rekordwert</string>
+    <string name="game">Spiel</string>
+    <string name="person_s">Person(en)</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="add">Hinzufügen</string>
+    <string name="game_exists_already">Spiel existiert bereits</string>
+    <string name="addGame">Neues Spiel hinzufügen</string>
+    <string name="addPerson">Person hinzufügen</string>
+    <string name="date">Datum</string>
+    <string name="invalid_record_value">Rekordwert nicht gültig</string>
+    <string name="invalid_data">Ungültige Einträge</string>
+    <string name="action_backup">Sichern</string>
+    <string name="action_restore">Laden</string>
+    <string name="delete">Löschen</string>
+    <string name="delete_entry">Möchten Sie diesen Eintrag wirklich löschen?</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+    <string name="backup_exp_title">Backup</string>
+    <string name="backup_exp">Um die Backup Funktion nutzen zu können, wird die \"Speicher\" Berechtigung benötigt.</string>
+    <string name="ok">OK</string>
+</resources>

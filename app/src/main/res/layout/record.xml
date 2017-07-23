@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="999."
+        android:layout_height="wrap_content"
+        android:id="@+id/textPos"
+
+
+        android:layout_width="35dp" />
+
+    <TextView
+        android:text="31.12.2015"
+        android:layout_height="wrap_content"
+        android:id="@+id/textDate"
+
+
+        android:layout_width="75dp"
+         />
+
+    <TextView
+        android:text="Names"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/persons"
+        android:layout_weight="1"
+         />
+
+    <TextView
+        android:text="100"
+        android:layout_height="wrap_content"
+        android:id="@+id/recordValue"
+        android:layout_weight="0"
+        android:layout_width="50dp" />
+</LinearLayout>
